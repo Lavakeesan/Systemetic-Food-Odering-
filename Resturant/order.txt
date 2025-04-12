@@ -1,0 +1,60 @@
+Order Details:
+Food Item: lobster_ravioli
+Quantity: 2
+Total Amount: 3000.0 LKR
+Customer Type: Premium
+----------------------------
+Order Details:
+Food Item: lobster_ravioli
+Quantity: 5
+Total Amount: 7500.0 LKR
+Customer Type: Premium
+----------------------------
+Order Details:
+Food Item: lobster_ravioli
+Quantity: 2
+Total Amount: 3000.0 LKR
+Customer Type: Premium
+----------------------------
+Order Details:
+Food Item: lobster_ravioli
+Quantity: 5
+Total Amount: 7500.0 LKR
+Customer Type: Premium
+----------------------------
+Order Details:
+Food Item: kothu
+Quantity: 2
+Total Amount: 2250.0 LKR
+Customer Type: Premium
+----------------------------
+Order Details:
+Food Item: kothu
+Quantity: 6
+Total Amount: 6750.0 LKR
+Customer Type: Premium
+----------------------------
+Order Details:
+Food Item: lobster_ravioli
+Quantity: 2
+Total Amount: 3000.0 LKR
+Customer Type: Premium
+----------------------------
+Order Details:
+Food Item: Lobster_ravioli
+Quantity: 5
+Total Amount: 10125.0 LKR
+Customer Type: Premium
+----------------------------
+Order Details:
+Food Item: Hyderabad Chiken Briyani
+Quantity: 3
+Total Amount: 3375.0 LKR
+Customer Type: Premium
+----------------------------
+Order Details:
+Food Item: Thandoori Chiken Pizza
+Quantity: 5
+Total Amount: 22500.0 LKR
+Customer Type: Standard
+----------------------------
